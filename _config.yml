@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Tayaba Abbasi"
 title_separator          : "-"
 name                     : &name "Tayaba Abbasi"
-description              : &description "Machine Learning Scientist and educator working in computer vision, spatial-temporal modelling, and healthcare analytics."
+description              : &description "Machine Learning Scientist and educator working in computer vision, spatial-temporal modelling, and healthcare analytics"
 url                      : https://tayaba02.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tayaba02/tayaba02.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Tayaba Abbasi"
   pronouns         : # example: "she/her"
-  bio              : "Machine Learning Scientist | Computer Vision & Spatial-Temporal Modelling"
+  bio              : "Machine Learning Scientist"
   location         : "Vancouver, BC"
   employer         : "Alberta Machine Intelligence Institute (Amii)"
   uri              : # URL
