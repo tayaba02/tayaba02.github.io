@@ -22,7 +22,7 @@ repository               : "tayaba02/tayaba02.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "tayaba-profile.jpeg"
   name             : "Tayaba Abbasi"
   pronouns         : # example: "she/her"
   bio              : "Machine Learning Scientist"
